@@ -10,7 +10,7 @@
 | [Sentry](https://github.com/x13a/Sentry) | Enforce device security policies |
 | [Wasted](https://github.com/x13a/Wasted) | Lock and wipe the device in an emergency |
 | [Duress](https://github.com/x13a/Duress) | Trigger actions with a duress password |
-| [Clipeus](https://github.com/x13a/Clipeus) | Clear the clipboard |
+| [Clipeus](https://github.com/x13a/Clipeus) | Clipboard cleaner |
 | [Vibe](https://github.com/x13a/Vibe) | Vibrate when a call is answered or ends |
 | [KeyMapper-NoInternet](https://github.com/x13a/KeyMapper-NoInternet) | KeyMapper without Internet access |
 
@@ -18,7 +18,7 @@
 
 | Repository | Description |
 | --- | --- |
-| [ClipeusX](https://github.com/x13a/ClipeusX) | Clear the clipboard |
+| [ClipeusX](https://github.com/x13a/ClipeusX) | Clipboard cleaner |
 | [pschk](https://github.com/x13a/pschk) | Check for suspicious processes |
 | [libproc-swift](https://github.com/x13a/libproc-swift) | Swift wrapper for libproc |
 | [codesign-swift](https://github.com/x13a/codesign-swift) | Code signing helpers for Swift |
