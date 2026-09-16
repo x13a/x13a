@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-#### My active repositories
-
 #### Android
 
 | Repository | Description |
